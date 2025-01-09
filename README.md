@@ -1,6 +1,6 @@
 # WEB102 Prework - *TharunUppala*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tharun Uppala**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
