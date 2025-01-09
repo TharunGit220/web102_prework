@@ -1,4 +1,4 @@
-# WEB102 Prework - *TharunUppala*
+# WEB102 Prework - *Tharun*
 
 Submitted by: **Tharun**
 
