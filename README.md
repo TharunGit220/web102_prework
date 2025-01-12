@@ -2,9 +2,9 @@
 
 Submitted by: **Tharun Uppala**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 https://imgur.com/a/brc8qaa
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with  imgur
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating and appending game cards to the DOM was trickier than I expected at first, improper template literals caused issues with images and text not displaying properly, but I fixed this by adjusting the syntax and ensuring everything was formatted correctly. Filtering games by their funding status also gave me some trouble as I initially used the wrong comparison logic, which led to games being categorized incorrectly, but I reviewed my code and managed to resolve it.
 
 ## License
 
